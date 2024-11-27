@@ -1,0 +1,7 @@
+{
+  "name": "MobMaidAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
